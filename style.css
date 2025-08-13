@@ -8,7 +8,7 @@ h1{
     color: blueviolet;
 }
 .sher{
-    color: aqua;
+    color: green;
 }
 .link{
     color: red;
@@ -16,9 +16,9 @@ h1{
 h1{
     background-color: blanchedalmond;
 }
-h5{
-    background-color: chocolate;
-}
 .video{
-    color: chartreuse;
+    color: purple;
+}
+*{
+    background-color: antiquewhite;
 }
