@@ -1,6 +1,9 @@
 h1{
     text-align: center;
 }
+h1{
+   font-family: "Playwrite AU QLD", cursive;
+}
 .papa{
     color: brown;
 }
@@ -14,11 +17,18 @@ h1{
     color: red;
 }
 h1{
-    background-color: blanchedalmond;
+    background-color: brown;
 }
 .video{
     color: purple;
 }
 *{
     background-color: antiquewhite;
+}
+div{
+    margin-left: 40%;
+}
+#photo{
+    border: 2px solid black;
+    
 }
